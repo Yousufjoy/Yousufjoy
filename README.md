@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
 
-<h3 align="center">I don't really hate programming. </h3>
+<h3 align="center">Welcome!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
 
