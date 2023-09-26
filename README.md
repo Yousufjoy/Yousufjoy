@@ -11,7 +11,7 @@
 
 
 - 📫 Email: **yousufj93006@gmail.com**
-- 👉 Linkdin: **[yousufj93006@gmail.com](https://www.linkedin.com/in/md-yousuf-52862524a/)**
+- 👉 Linkdin: **(https://www.linkedin.com/in/md-yousuf-52862524a/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
