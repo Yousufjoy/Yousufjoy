@@ -9,7 +9,9 @@
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+  <a href="https://github.com/yousufjoy">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;Junior+Web+Developer;UI/UX+Designer;MERN+Developer;&center=true&width=500&height=50">
+  </a>
 </p>
 
 <p align="left">
