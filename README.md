@@ -17,17 +17,7 @@
 </p>
 
 <h4 align="left">Connect with me🤝:</h4>
-<p align="left">
-  <a href="mailto:yousufj93006@gmail.com">
-    <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-yousuf-52862524a/">
-    <img alt="Md Yousuf | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="https://www.facebook.com/yousuf.joy.5/">
-    <img alt="Md Yousuf | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-</p>
+
 <p align="left">
   <a href="mailto:yousufj93006@gmail.com">
     <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
