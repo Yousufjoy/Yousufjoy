@@ -70,7 +70,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufjoy&" alt="yousufjoy" />
 </p>
 
-<h3 align="left">A Little More About Me:</h3>
+
 <p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 </p>
