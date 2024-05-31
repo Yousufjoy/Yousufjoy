@@ -8,9 +8,7 @@
 
 <h3 align="center">Welcome!</h3>
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
-</p>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousufjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yousufjoy" />
@@ -59,6 +57,7 @@
   </a>
 </p>
 
+<h3 align="left">My GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufjoy&show_icons=true&locale=en&layout=compact" alt="yousufjoy" />
 </p>
@@ -69,4 +68,13 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufjoy&" alt="yousufjoy" />
+</p>
+
+<h3 align="left">A Little More About Me:</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Welcome GIF" />
 </p>
