@@ -19,6 +19,22 @@
 <p align="left">
 <a href="https://www.facebook.com/yousuf.joy.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yousuf.joy.5/" height="30" width="40" /></a>
 
+<h4> Connect with me🤝: <h4>
+  </hr>
+
+  <a href="yousufj93006@gmail.com">
+    <img align="left" alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+ <a href="https://www.linkedin.com/in/md-yousuf-52862524a/">
+   <img align="left" alt="Md Yousuf| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a> 
+   <a href="https://www.facebook.com/yousuf.joy.5/">
+    <img align="left" alt="Md Yousuf| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+  
+  <br>
+    </hr>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
