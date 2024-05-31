@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Yousuf</h1>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+  <a href="https://github.com/yousufjoy">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;Junior+Web+Developer;UI/UX+Designer;MERN+Developer;&center=true&width=500&height=50">
+  </a>
 </p>
+
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
-  <a href="https://github.com/yousufjoy">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;MERN+Stack+Developer;UI/UX+Designer;&center=true&width=500&height=50">
-  </a>
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousufjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yousufjoy" />
 </p>
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Connect with me🤝:</h4>
+<p align="left">
+  <a href="mailto:yousufj93006@gmail.com">
+    <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-yousuf-52862524a/">
+    <img alt="Md Yousuf | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="https://www.facebook.com/yousuf.joy.5/">
+    <img alt="Md Yousuf | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+</p>
 <p align="left">
   <a href="mailto:yousufj93006@gmail.com">
     <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
