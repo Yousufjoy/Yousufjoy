@@ -8,13 +8,15 @@
 
 <h3 align="center">Welcome!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousufjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yousufjoy" />
 </p>
 
-<h4 align="left">Connect with me🤝:</h4>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="mailto:yousufj93006@gmail.com">
     <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
@@ -70,11 +72,21 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufjoy&" alt="yousufjoy" />
 </p>
 
-
+<h3 align="left">A Little More About Me:</h3>
 <p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Welcome GIF" />
+</p>
+
+<h3 align="left">My Projects:</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Project GIF" />
+</p>
+
+<h3 align="center">Thanks for Visiting!</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" alt="Thank You GIF" />
 </p>
