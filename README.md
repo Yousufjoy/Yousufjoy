@@ -12,12 +12,6 @@
 
 
 
-- 📫 Email: **yousufj93006@gmail.com**
-- 👉 Linkdin: **(https://www.linkedin.com/in/md-yousuf-52862524a/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/yousuf.joy.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yousuf.joy.5/" height="30" width="40" /></a>
 
 <h4> Connect with me🤝: <h4>
   </hr>
