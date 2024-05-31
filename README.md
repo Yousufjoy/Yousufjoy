@@ -8,30 +8,30 @@
 
 <h3 align="center">Welcome!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousufjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yousufjoy" />
 </p>
 
 <h4 align="left">Connect with me🤝:</h4>
-
 <p align="left">
   <a href="mailto:yousufj93006@gmail.com">
-    <img align="left" alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img alt="Yousuf | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.linkedin.com/in/md-yousuf-52862524a/">
-    <img align="left" alt="Md Yousuf | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+    <img alt="Md Yousuf | LinkedIn" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="https://www.facebook.com/yousuf.joy.5/">
-    <img align="left" alt="Md Yousuf | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img alt="Md Yousuf | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
 </p>
 
 <br clear="left"/>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -59,8 +59,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufjoy&show_icons=true&locale=en&layout=compact" alt="yousufjoy" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufjoy&show_icons=true&locale=en&layout=compact" alt="yousufjoy" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufjoy&show_icons=true&locale=en" alt="yousufjoy" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufjoy&show_icons=true&locale=en" alt="yousufjoy" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufjoy&" alt="yousufjoy" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufjoy&" alt="yousufjoy" />
+</p>
