@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=yousufjoy&label=Profile%20views&color=0e75b6&style=flat" alt="yousufjoy" />
 </p>
 
-<h4 align="left">Connect with me🤝:</h4>
+<h4 align="left">Connect with me: </h4>
 
 <p align="left">
   <a href="mailto:yousufj93006@gmail.com">
