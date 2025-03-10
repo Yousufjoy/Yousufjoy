@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/yousufjoy">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;MERN+STACK+Developer;UI/UX+Designer;&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Graduate;MERN+STACK+Developer;UI/UX+Designer;&center=true&width=500&height=50">
   </a>
 </p>
 
