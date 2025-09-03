@@ -9,7 +9,7 @@
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"/>
+  <img align="right" alt="Coding" width="400" src="[https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jp](https://img.freepik.com/premium-vector/vector-cute-cat-is-dabbing-pose_995281-1950.jpg)"/>
 </p>
 
 <p align="left">
