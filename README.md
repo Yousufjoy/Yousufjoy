@@ -9,7 +9,7 @@
 <h3 align="center">Welcome!</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/044/862/902/non_2x/dabbing-cat-with-sunglasses-illustration-vector.jpg"/>
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/30/62/75/3062756a297f1e3c22e35f3fe89b3ecc.jpg"/>
 </p>
 
 <p align="left">
